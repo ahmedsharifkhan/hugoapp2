@@ -1,0 +1,16 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /home/
+      weight: 10
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
