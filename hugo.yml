@@ -1,4 +1,5 @@
-baseURL: ''
+baseURL: /hugoapp2
+url: https://ahmedsharifkhan.github.io
 languageCode: 'en-us'
 title: 'My New Hugo Site'
 # theme: PaperMod
